@@ -1,22 +1,23 @@
 {
-  "main": "node_modules/expo/AppEntry.js",
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web",
-    "eject": "expo eject"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start"
   },
+  "type": "module",
+  "author": "Muhammet ARSLANTAS",
+  "license": "ISC",
   "dependencies": {
-    "expo": "~42.0.1",
-    "expo-status-bar": "~1.0.4",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
-    "react-native-web": "~0.13.12"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.9.0"
-  },
-  "private": true
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "expo": "^42.0.3",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.12"
+  }
 }
