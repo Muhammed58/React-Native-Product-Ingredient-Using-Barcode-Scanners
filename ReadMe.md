@@ -24,10 +24,10 @@ A simple React Native app that allows you to scan barcodes and display product i
 <a name="dependencies"></a>
 ## Dependencies
 - [React Native](https://facebook.github.io/react-native/)
-- [expo-barcode-scanner]
-- [@fortawesome/free-solid-svg-icons]
-- [@fortawesome/react-native-fontawesome]
-- [@react-native-community/masked-view"]
+- [expo-barcode-scanner] (https://docs.expo.dev/versions/latest/sdk/bar-code-scanner/)
+- [@fortawesome/free-solid-svg-icons] (https://www.npmjs.com/package/@fortawesome/free-solid-svg-icons)
+- [@fortawesome/react-native-fontawesome] (https://www.npmjs.com/package/@fortawesome/react-native-fontawesome)
+- [@react-native-community/masked-view] (https://www.npmjs.com/package/@react-native-masked-view/masked-view)
 
 <a name="contributing"/>
 ## Contributing
