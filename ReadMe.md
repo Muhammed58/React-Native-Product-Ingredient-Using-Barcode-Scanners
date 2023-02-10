@@ -4,8 +4,8 @@ A simple React Native app that allows you to scan barcodes and display product i
 ##### Table of Contents  
 [Features](#features)  
 [Getting Started](#getting-started)  
-[Getting Started](#dependencies) 
-[Getting Started](#contributing) 
+[Dependencies](#dependencies)  
+[Contributing](#contributing) 
 
 <a name="features"></a>
 ## Features
