@@ -1,4 +1,9 @@
-#  REACT NATIVE PRODUCT INFO BY USING BARCODE SCANNER
+#  REACT NATIVE PRODUCT INFO BY USING BARCODE SCANNER - An UGLY project from my early coding years 😀
+
+
+I keep sharing this to show people how bad your code can be in first years 🎉
+
+
 A simple React Native app that allows you to scan barcodes and display product information.
 
 ##### Table of Contents  
@@ -10,7 +15,7 @@ A simple React Native app that allows you to scan barcodes and display product i
 <a name="features"></a>
 ## Features
 - Scan barcodes using the device's camera
-- Display product information whether the product dairy-free, sugar-free, soy-free, gluten-free
+- Display product information whether the product is dairy-free, sugar-free, soy-free, gluten-free
 
 ![isthisGIF1](https://user-images.githubusercontent.com/45498530/134220883-4b8da830-9f9e-4620-99f4-635410359bb1.gif)
 ![isthisGIF2](https://user-images.githubusercontent.com/45498530/134220903-6aaad09b-0a9a-4069-a5d9-506c9ef329fd.gif)
